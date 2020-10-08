@@ -1,0 +1,3 @@
+welcome
+bike.cpp is source code.
+save all the files of folder files in bin of turbo c++....(DAT file)
